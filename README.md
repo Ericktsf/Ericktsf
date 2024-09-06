@@ -1,5 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil e fique a vontade para **dar**, uma olhada :guitar
 
+### Meu nome é **Erick Taveira**
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript e algumas outras coisas...
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos em aulas
+
+### Você pode entrar em contato comigo :mailbox
+
+ericktaveira.soares12@outlook.com
+
+! [Misecordia] (https://www.google.com/search?tbs=sbi:AMhZZitW68ZLHNQ51Qw5nN8WPOb52sd3IdsJ6SUUUVjuxN-KF_1rkhbe189XrKs6Zd2CogJTZhzA8ueTzI9p_1FEOay9gt8yClu2iii3YXkg00_1Zf8ve1TJ3PSCs24O7Zux85m2hDiBEA3BGbn6nUsso98X1PMUOocY-lEXX6KSlT-zvqrffShIuE53jciwifBEwDGj-rUbXIPL3YIjTq-P4zVVZ7JVbN2Bqu4upJnaCZ_1skcOVTCzJVBXXEdJaqRbqXUiW97Wm_1LlnSngVC6dGL2mZKu2WKuAOWYTH2ooDX6ZrujB-4S9tcn0agF3uWSuJ60qMk9cHbDUxDR6RV9WqRnvpMK0d4XRsT6KbxEdHM_1v1C7CdBfGWnM&client=ms-opera-gx-android&channel=new&espv=1)
 <!--
 **Ericktsf/Ericktsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
